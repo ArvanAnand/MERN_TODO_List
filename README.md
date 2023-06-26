@@ -2,7 +2,7 @@
 
 This project is a simple ToDo list application built using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. It allows users to create, update, and delete tasks, keeping track of their progress. And hence, also show completed and not completed tasks.
 
-##Deployment Link
+## Deployment Link
 ```
 https://arvananand.github.io/MERN_TODO_List/
 ```
@@ -60,7 +60,7 @@ Once the installation is complete, you can access the ToDo list application by v
 + Mark a task as complete: Click on the checkbox next to a task to mark it as complete.
 + Delete a task: Click on the "X" button next to a task to delete it.
 
-# Contributing
+## Contributing
   Contributions to this project are welcome. To contribute, follow these steps:
 
 1. Fork the repository.
@@ -70,10 +70,10 @@ Once the installation is complete, you can access the ToDo list application by v
 5. Open a pull request.
 Please ensure that your code adheres to the project's coding conventions and includes appropriate documentation and tests.
 
-# License
+## License
 This project is licensed under the MIT License.
 
-# Acknowledgments
+## Acknowledgments
 + The MERN stack and related technologies for providing an excellent framework for building web applications.
 + Various open source libraries and tools used in this project.
 + The developer community for their valuable contributions.
