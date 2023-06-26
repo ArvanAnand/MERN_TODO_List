@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MERN_TODO_List/static/css/main.854842e3.css",
+    "main.js": "/MERN_TODO_List/static/js/main.e0f24958.js",
+    "static/js/787.899d52a4.chunk.js": "/MERN_TODO_List/static/js/787.899d52a4.chunk.js",
+    "index.html": "/MERN_TODO_List/index.html",
+    "main.854842e3.css.map": "/MERN_TODO_List/static/css/main.854842e3.css.map",
+    "main.e0f24958.js.map": "/MERN_TODO_List/static/js/main.e0f24958.js.map",
+    "787.899d52a4.chunk.js.map": "/MERN_TODO_List/static/js/787.899d52a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.854842e3.css",
+    "static/js/main.e0f24958.js"
+  ]
+}
